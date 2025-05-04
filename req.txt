@@ -1,0 +1,7 @@
+streamlit
+IPython
+pyyaml
+ipywidgets
+
+matplotlib 
+pillow
