@@ -5,6 +5,10 @@ A Streamlit web application that generates 3D models (.obj) from either:
 - Images (PNG/JPG with object focus)
 
 Built with OpenAI's Shap-E and PyTorch. 
+
+https://github.com/user-attachments/assets/3fa789d1-7854-4bc0-938e-e66569705f58
+
+
 ![text-to-3d ipynb - Colab - Google Chrome 5_4_2025 6_03_17 PM](https://github.com/user-attachments/assets/8144c103-37c2-4a31-aac2-d248feb5bfbc)
 
 ## Features ✨
